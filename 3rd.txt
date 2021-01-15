@@ -1,1 +1,1 @@
-This is a 3rd file that is being added to the project
+This is 3rd.txt file
